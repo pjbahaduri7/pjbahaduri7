@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Prachiti</h1>
-<h3>I am an intermediate coder, trying to figure out stuffs</h3>
+<h1 align = "left">Hi 👋, I'm Prachiti</h1>
+<h3 align = "left">I am an intermediate coder, trying to figure out stuffs</h3>
 
 - 🔭 I’m currently working on **TheAnime Bot**
 
