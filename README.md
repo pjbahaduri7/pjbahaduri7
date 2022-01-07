@@ -1,13 +1,13 @@
 <h1 align = "left">Hi 👋, I'm Prachiti</h1>
 <h3 align = "left">I am an intermediate coder, trying to figure out stuffs</h3>
 
-- 🔭 I’m currently working on **TheAnime Bot**
+🔭 I’m currently working on **TheAnime Bot**
 
-- 🌱 I’m currently learning **Model testing and deployment**
+🌱 I’m currently learning **Model testing and deployment**
 
-- 👯 I’m looking to collaborate on **ML/DL/AI**
+👯 I’m looking to collaborate on **ML/DL/AI**
 
-- ⚡ Fun fact **The meaning of my name is Experience!**
+⚡ Fun fact **The meaning of my name is Experience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
