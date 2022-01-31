@@ -1,4 +1,4 @@
-<h1 align = "left">Hi 👋 <a href = 'https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836'></a>, I'm Prachiti</h1>
+<h1 align = "left">Hi 👋 </h1><a href = 'https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836'></a><h1>, I'm Prachiti</h1>
 <h3 align = "left">I am an intermediate coder, trying to figure out stuffs</h3>
 
 🔭 I’m currently working on **TheAnime Bot**
