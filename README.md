@@ -15,8 +15,8 @@
 - [**Sleep Quality**](https://github.com/pjbahaduri7/Sleep-Quality): Comparing the accuracies of 800 observations with 15 features across 6 classifiers and also evaluating the test performance metrics for each class using the best number of features for that class. 
 
 ## ▶️ YouTube Links to the projects I worked on:
-**SLI APP** - https://youtu.be/nTd5xGtzOcM?si=8AeIkSqCuPp3uc47 
-**Sentiments Analysis** - https://youtu.be/Lr8HQp-PPio
+- **SLI APP** - https://youtu.be/nTd5xGtzOcM?si=8AeIkSqCuPp3uc47 
+- **Sentiments Analysis** - https://youtu.be/Lr8HQp-PPio
 
 
 ## 📈 GitHub Stats
