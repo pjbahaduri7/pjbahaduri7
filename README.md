@@ -3,8 +3,8 @@
 🚀 I'm a grad student of MS in Data Science, and I am actively looking forward to working on projects related to Data Science and Machine Learning.
 
 ## 📫 Get in touch (my socials)
-- LinkedIn:(https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/) 
-- Email:(pjbahaduri@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/) 
+- [**Email**](pjbahaduri@gmail.com)
 
 ## 🔧 Skills
 - Python, R, C, C++, HTML, CSS
