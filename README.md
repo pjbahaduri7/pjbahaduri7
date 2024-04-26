@@ -1,20 +1,31 @@
-<h1 align = "left">Hi 👋, I'm Prachiti</h1>
-<h3 align = "left">I am an intermediate coder, trying to figure out stuffs</h3>
+# Hello, I'm PRACHITI! 👋
 
-🔭 I’m currently working on **TheAnime Bot**
+🚀 I'm a grad student of MS in Data Science, and I am actively looking forward to working on projects related to Data Science and Machine Learning.
 
-🌱 I’m currently learning **Model testing and deployment**
+## 📫 Get in touch (my socials)
+- LinkedIn:(https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/) 
+- Email:(pjbahaduri@gmail.com)
 
-👯 I’m looking to collaborate on **ML/DL/AI**
+## 🔧 Skills
+- Python, R, C, C++, HTML, CSS
 
-⚡ Fun fact **The meaning of my name is Experience!**
+## 💼 Projects
+- [**SLI APP**](https://github.com/pjbahaduri7/Sign_Language_Interpreter_App): A robust Android application that aids in communication for deaf people by using deep learning with transfer learning techniques.
+- [**Sentiments Analysis**](https://github.com/pjbahaduri7/Sentiments_Analysis_APP): To scrap all the reviews from the online shopping website Etsy.com using web scrapping via beautiful soup and to predict whether the review is positive or negative, and to create a dashboard for the UI using the dash library.
+- [**Sleep Quality**](https://github.com/pjbahaduri7/Sleep-Quality): Comparing the accuracies of 800 observations with 15 features across 6 classifiers and also evaluating the test performance metrics for each class using the best number of features for that class. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prachiti.bahaduri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prachiti.bahaduri/" height="30" width="40" /></a>
-</p>
+## ▶️ YouTube Links to the projects I worked on:
+**SLI APP** - https://youtu.be/nTd5xGtzOcM?si=8AeIkSqCuPp3uc47 
+**Sentiments Analysis** - https://youtu.be/Lr8HQp-PPio
 
-<h3 align="left">Languages: </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pjbahaduri7&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Performance metrics 
+
+## 💬 Favorite Quote
+“A good half of the art of living is resilience.” — Alain de Botton
+
+Feel free to reach out if you have any questions or want to chat on the above socials!
