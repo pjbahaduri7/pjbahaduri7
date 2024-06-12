@@ -1,8 +1,8 @@
 # Hello, I'm PRACHITI! 👋
 
-🚀 I'm a grad student of MS in Data Science, and I am actively looking forward to working on projects related to Data Science and Machine Learning.
+🚀 I have completed my Master of Science degree in Data Science, and I am actively looking forward to working on Data Science and Machine Learning projects.
 
-## 📫 Get in touch (my socials)
+## 📫 Get in touch with me here! (my socials)
 - [**LinkedIn**](https://www.linkedin.com/in/prachiti-bahaduri-3b20ba1a6/) 
 - [**Email**](pjbahaduri@gmail.com)
 
